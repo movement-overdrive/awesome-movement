@@ -12,6 +12,7 @@ List of awesome projects on the Movement Blockchain and information on how to le
 ## Getting started
 
 - [Install Razor Wallet](https://razorwallet.xyz/) to access Movement environment
+- [Facuet: Get Devnet Tokens](https://faucet.movementlabs.xyz/)
 
 ## Projects
 
