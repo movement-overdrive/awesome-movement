@@ -20,6 +20,7 @@ List of awesome projects on the Movement Blockchain and information on how to le
 - [Interest Protocol Create Token](https://movement.interestprotocol.com/create-token)
 - [Razor DEX](https://razordex.xyz)
 - [Henry: On-chain brand loyalty](https://www.henry.social/)
+- [Movers DAO: Meme Coin & Community Hub](https://moversdao.xyz/)
 
 ## Move Learning resources
 
