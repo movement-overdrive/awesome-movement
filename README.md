@@ -30,7 +30,7 @@ List of awesome projects on the Movement Blockchain and information on how to le
 ### SUI Move
 
 - [Interactive learning course: Let's Move Sui](https://letsmovesui.com)
-- [Interactive learning course: Move on Sui](https://learn.movecastle.info/courses/move-on-sui)
+- [Interactive learning course: Move Castle](https://learn.movecastle.info/courses/move-on-sui)
 - [Video tutorial with SUI Move basics and Price feed example](https://www.youtube.com/watch?v=fOaImPSvA2E&list=PLIJGo36CtI4L3sbAPX8motTQhzka4sMdh)
   Does work for Chapter 1+2 on Movement
 - [SUITEARS: Reusable modules](https://www.suitears.com/)
